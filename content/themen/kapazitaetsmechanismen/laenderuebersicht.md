@@ -92,7 +92,9 @@ das Jahr der Einführung sowie die aktuelle Diskussion in den einzelnen Ländern
 | **Land**      | **Kapazitätsmechanismus** | **Auktionsart** | **Jahr** | **Status** |
 |--------------------|:----------------------------------------:|:-----------:|:-----------:|:-----------:|
 | BE     | Zentraler Markt  | Pay-as-bid  |      2021 | aktiv |
+| CZ | Zentraler Markt     |      Pay-as-cleared   | 2026 | genehmigt / noch nicht akitv |
 | DE       | Zentraler Markt     | Pay-as-bid     | 2026   | nicht genehmigt |
+| ES | Zentraler Markt     |      Pay-as-bid   | 2026 | genehmigt / noch nicht akitv |
 | FI |  Strategische Reserve          | Pay-as-cleared        | 2022        |aktiv |
 | FR | Zentraler Markt     |      Pay-as-cleared   | 2025 | aktiv |
 | IE | Zentraler Markt    |      Pay-as-cleared   | 2017 | aktiv |
@@ -100,8 +102,8 @@ das Jahr der Einführung sowie die aktuelle Diskussion in den einzelnen Ländern
 | PL | Zentraler Markt     |      Pay-as-cleared   | 2018 | aktiv |
 | SE | Strategische Reserve|      Pay-as-bid   | 2025 | aktiv |
 | UK | Zentraler Markt     |      Pay-as-cleared   | 2014 | aktiv |
-| ES | Zentraler Markt     |      Pay-as-bid   | 2026 | genehmigt / noch nicht akitv |
-| CZ | Zentraler Markt     |      Pay-as-cleared   | 2026 | genehmigt / noch nicht akitv |
+
+
 
 
 Eine Übersicht über alle aktuell als staatliche Beihilfen genehmigten Kapazitätsmechanismen und deren genaue
